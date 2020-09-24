@@ -88,9 +88,7 @@ html.swipebox-html.swipebox-touch {
   top: 0;
   left: 0;
 }
-#swipebox-slider {
-  background: url(https://scontent-maa2-1.xx.fbcdn.net/v/t1.0-9/78159208_712084315956536_8030323735133159424_o.jpg?_nc_cat=108&_nc_sid=84a396&_nc_ohc=1byF2NffF6EAX_L5v-Z&_nc_ht=scontent-maa2-1.xx&oh=dc73fa6288d16bb2ee0fe47e5b29551c&oe=5F8C14AD) no-repeat center center;
-}
+
 #swipebox-bottom-bar,
 #swipebox-top-bar {
   -webkit-transition: 0.5s all;
