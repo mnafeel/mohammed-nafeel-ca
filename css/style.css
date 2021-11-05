@@ -33,8 +33,9 @@ body a:hover{
 }
 /*--baner--*/
 /*banner old image /// https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVaw-9UaB6wA46AWcUCGvaFr08yWlwB0btIw&usqp=CAU\ */
+/* background:url(/images/background\ banner.png) */
 .banner {
-    background:url(images/background\ banner.png)
+    background-image:url(images/background\ banner.png)
     no-repeat center 0px;
 	-webkit-background-size:cover;
 	background-size:cover;
