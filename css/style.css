@@ -32,8 +32,9 @@ body a:hover{
 	text-decoration:none;
 }
 /*--baner--*/
+/*banner old image /// https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVaw-9UaB6wA46AWcUCGvaFr08yWlwB0btIw&usqp=CAU\ */
 .banner {
-    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVaw-9UaB6wA46AWcUCGvaFr08yWlwB0btIw&usqp=CAU)
+    background:url(images/background\ banner.png)
     no-repeat center 0px;
 	-webkit-background-size:cover;
 	background-size:cover;
@@ -108,8 +109,9 @@ ul.address li ul.address-text li a:hover{
 }
 /*--//banner-top--*/
 /*--top-nav--*/
+/*old color/// #008B8B */
 .top-nav {
-    background: #008B8B;
+    background: #000000b0;
 }
 .nav > li {
     display: inline-block;
@@ -138,6 +140,7 @@ ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
 .about,.work,.education,.skills,.portfolio,.contact{
 	padding:6em 0;
 }
+/* #008B8B */
 h3.title {
     font-size: 4em;
     text-align: center;
